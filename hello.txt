@@ -6,3 +6,4 @@ hello ljm atguigu master test
 hello ljm atguigu hot-fix test
 123456
 only lhc
+test if update master
